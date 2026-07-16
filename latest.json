@@ -1,5 +1,5 @@
 {
-    "version": "1.1.0",
-    "release_notes": "Initial Release",
+    "version":"1.2.0",
+    "release_notes":"Bug fixes\nPerformance improvements",
     "download_url": "https://github.com/snehshah123/IntelliScan-Test/releases/download/v1.1.0/Sigma.Controls.-.IntelliScan.zip"
 }
